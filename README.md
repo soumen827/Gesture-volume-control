@@ -17,4 +17,17 @@ Who is it for?
 
 🖥️ Presenters who want hands-free slide and window management
 
-$0 · No API key · No internet · Runs 100% on your machine.
+Features
+Feature	Description
+🖱️ Smooth Mouse Control	Move the cursor naturally using only your index finger — exponential smoothing eliminates jitter
+🤏 Left Click	Pinch your thumb and index finger together to click
+✌️ Right Click	Peace-sign (index + middle) triggers a right-click
+🔊 Real-Time Volume Control	Raise or lower your open hand to set system volume — hand height maps directly to volume level
+🔄 Window Switching	Swipe your open hand left or right to cycle through windows with Alt+Tab / Alt+Shift+Tab
+🖥️ Show Desktop	Three-finger gesture instantly triggers Win+D
+📋 Task View	Index + Pinky (rock sign) opens Win+Tab Task View
+⏸️ Pause / Resume	Hold a fist for 1.5 seconds to freeze all gesture controls — hold again to resume
+🎨 Live HUD Overlay	Semi-transparent heads-up display with active gesture badge, FPS counter, volume bar, and fading action log
+⚡ Zero-Latency Design	pyautogui.PAUSE = 0 + frame-level gesture dispatch — actions fire within the same frame cycle
+📴 Fully Offline	No API keys, no cloud endpoints, no telemetry — all inference runs locally on CPU
+🚀 One-Click Launcher	START.bat installs all dependencies and launches the app automatically
