@@ -10,11 +10,7 @@ Who is it for?
 
 
 🧑‍💻 Developers and makers exploring computer vision and HCI
-
 ♿ Users who benefit from accessibility-friendly, touch-free PC control
-
 🎓 Students learning real-time AI/CV application development
-
 🖥️ Presenters who want hands-free slide and window management
-
 $0 · No API key · No internet · Runs 100% on your machine.
